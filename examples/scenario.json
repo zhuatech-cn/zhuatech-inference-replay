@@ -1,0 +1,12 @@
+{
+  "name": "使用两个并行槽位",
+  "settings": {
+    "slots": 2,
+    "sloMs": 100
+  },
+  "checkpoint": {
+    "metric": "p95Ms",
+    "expected": 80,
+    "absoluteTolerance": 1e-10
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "metrics": {
+    "minimumSlots": 2,
+    "extraSlots": 1,
+    "intrinsicBreaches": 0
+  },
+  "row": {
+    "slots": 2,
+    "breaches": 0,
+    "worstMs": 80
+  }
+}

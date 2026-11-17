@@ -1,0 +1,9 @@
+{
+  "metrics": {
+    "windowMs": 120,
+    "peakWaiting": 1,
+    "queueActiveMs": 70,
+    "slotUtilization": 1
+  },
+  "tolerance": 1e-10
+}

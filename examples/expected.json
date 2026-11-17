@@ -1,0 +1,11 @@
+{
+  "metrics": {
+    "breaches": 1,
+    "p95Ms": 110
+  },
+  "row": {
+    "id": "B",
+    "waitMs": 70,
+    "finishMs": 120
+  }
+}

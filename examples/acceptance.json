@@ -1,0 +1,19 @@
+{
+  "title": "推理队列容量回放验收样本",
+  "settings": {
+    "slots": 1,
+    "sloMs": 100
+  },
+  "rows": [
+    {
+      "id": "A",
+      "arrivalMs": 0,
+      "serviceMs": 80
+    },
+    {
+      "id": "B",
+      "arrivalMs": 10,
+      "serviceMs": 40
+    }
+  ]
+}
